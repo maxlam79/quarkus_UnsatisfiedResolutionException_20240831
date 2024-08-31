@@ -4,7 +4,7 @@
 ```
 create table t_investigate
 (
-    uuid char(32) not null,
+    uuid char(36) not null,
     primary key(uuid)
 );
 ```
